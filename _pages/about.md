@@ -24,7 +24,7 @@ Wok To Go\
 1204 Agora Lane, Bel Air, MD, 21015\
 I work as a delivery driver for a local Chinese restaurant, as well as handling transactions, taking orders over the phone,
 restocking the front counter, cleaning the kitchen, and restocking the food for the next day.
-# SKILL
+# SKILLS
 Web development - 3 years\
 Computer programming - 5 years\
 Hardware assembly - 2 years\
