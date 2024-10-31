@@ -43,5 +43,5 @@ Oracle Database Foundations - 1Z0-006\
 
 May the 27th, Testing ID: OC5065176.
 Certificate of database design, creation, and implementation methods associated with the Oracle Academy.
-# LINKS
-[There is no ViRUs](https://github.com/JaMullins/There-is-no-ViRUs.git)
+# LPROJECTS
+[Tkinter game meant to simulate a sentient virus](https://github.com/JaMullins/There-is-no-ViRUs.git)
